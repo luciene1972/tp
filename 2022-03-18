@@ -1,1 +1,37 @@
-Em
+programa
+{
+	
+	funcao inicio()
+	{
+		real Mnumero1, Mnumero2, Msoma, Msubtracao, Mmultiplicacao, Mdivisao
+
+		Mnumero1 =0.0
+		Mnumero2 =0.0
+		Msoma =0.0
+		Msubtracao =0.0
+		Mmultiplicacao =0.0
+		Mdivisao =0.0
+
+		escreva ("insira o primeiro número: ")
+		leia (Mnumero1)
+
+		escreva ("insira o segundo número: ")
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	}
+}
