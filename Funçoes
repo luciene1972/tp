@@ -1,0 +1,39 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		real a,real b
+		escreva("informe o primerio número:")
+		leia(a)
+		escreva("informe o segundo número:")
+          leia(b)
+
+          escreva("resultado da soma",a+b)
+          escreva("\nresultado da subtração",a-b)
+          escreva("\nresultado da multiplicação",a*b)
+          escreva("\nresultado da divisão",a/b)
+         
+      
+       escreva("resultado da soma",soma( a, b))
+          
+
+
+	}
+	funcao real soma(real a,real b)
+	{
+     real resultado
+     resultado= (a+b)
+     retorne  resultado
+     }
+
+	
+	
+	
+	
+		
+	
+		
+	
+	
+}
